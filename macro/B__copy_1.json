@@ -1,0 +1,49 @@
+{
+    "fps": 564.0,
+    "macro": [
+        {
+            "frame": 550,
+            "player_1": {
+                "click": 1,
+                "x_position": 245.36773681640625
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 566,
+            "player_1": {
+                "click": 2,
+                "x_position": 252.49273681640625
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 728,
+            "player_1": {
+                "click": 1,
+                "x_position": 324.63336181640625
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 776,
+            "player_1": {
+                "click": 2,
+                "x_position": 333.09429931640625
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        }
+    ]
+}

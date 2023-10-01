@@ -1,0 +1,621 @@
+{
+    "fps": 180.0,
+    "macro": [
+        {
+            "frame": 110,
+            "player_1": {
+                "click": 1,
+                "x_position": 154.88157653808594
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 120,
+            "player_1": {
+                "click": 2,
+                "x_position": 168.83482360839844
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 138,
+            "player_1": {
+                "click": 1,
+                "x_position": 193.95066833496094
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 148,
+            "player_1": {
+                "click": 2,
+                "x_position": 207.90391540527344
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 231,
+            "player_1": {
+                "click": 1,
+                "x_position": 363.4192810058594
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 232,
+            "player_1": {
+                "click": 2,
+                "x_position": 366.6192321777344
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 239,
+            "player_1": {
+                "click": 1,
+                "x_position": 389.0188903808594
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 250,
+            "player_1": {
+                "click": 2,
+                "x_position": 424.2183532714844
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 278,
+            "player_1": {
+                "click": 1,
+                "x_position": 513.8170166015625
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 290,
+            "player_1": {
+                "click": 2,
+                "x_position": 552.2164306640625
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 306,
+            "player_1": {
+                "click": 1,
+                "x_position": 603.4156494140625
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 339,
+            "player_1": {
+                "click": 2,
+                "x_position": 709.0140380859375
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 343,
+            "player_1": {
+                "click": 1,
+                "x_position": 721.8138427734375
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 376,
+            "player_1": {
+                "click": 2,
+                "x_position": 827.4122314453125
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 383,
+            "player_1": {
+                "click": 1,
+                "x_position": 849.8118896484375
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 398,
+            "player_1": {
+                "click": 2,
+                "x_position": 897.8111572265625
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 432,
+            "player_1": {
+                "click": 1,
+                "x_position": 1006.6094970703125
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 434,
+            "player_1": {
+                "click": 2,
+                "x_position": 1013.0093994140625
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 444,
+            "player_1": {
+                "click": 1,
+                "x_position": 1045.010498046875
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 453,
+            "player_1": {
+                "click": 2,
+                "x_position": 1073.812255859375
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 473,
+            "player_1": {
+                "click": 1,
+                "x_position": 1137.816162109375
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 483,
+            "player_1": {
+                "click": 2,
+                "x_position": 1169.818115234375
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 486,
+            "player_1": {
+                "click": 1,
+                "x_position": 1179.418701171875
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 497,
+            "player_1": {
+                "click": 2,
+                "x_position": 1214.620849609375
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 508,
+            "player_1": {
+                "click": 1,
+                "x_position": 1249.822998046875
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 511,
+            "player_1": {
+                "click": 2,
+                "x_position": 1259.423583984375
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 532,
+            "player_1": {
+                "click": 1,
+                "x_position": 1299.557373046875
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 548,
+            "player_1": {
+                "click": 2,
+                "x_position": 1321.885498046875
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 555,
+            "player_1": {
+                "click": 1,
+                "x_position": 1331.654052734375
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 564,
+            "player_1": {
+                "click": 2,
+                "x_position": 1344.213623046875
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 571,
+            "player_1": {
+                "click": 1,
+                "x_position": 1353.982177734375
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 579,
+            "player_1": {
+                "click": 2,
+                "x_position": 1365.146240234375
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 598,
+            "player_1": {
+                "click": 1,
+                "x_position": 1391.660888671875
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 607,
+            "player_1": {
+                "click": 2,
+                "x_position": 1404.220458984375
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 614,
+            "player_1": {
+                "click": 1,
+                "x_position": 1413.989013671875
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 615,
+            "player_1": {
+                "click": 2,
+                "x_position": 1415.384521484375
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 634,
+            "player_1": {
+                "click": 1,
+                "x_position": 1441.899169921875
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 648,
+            "player_1": {
+                "click": 2,
+                "x_position": 1461.436279296875
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 653,
+            "player_1": {
+                "click": 1,
+                "x_position": 1468.413818359375
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 663,
+            "player_1": {
+                "click": 2,
+                "x_position": 1482.368896484375
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 675,
+            "player_1": {
+                "click": 1,
+                "x_position": 1499.114990234375
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 683,
+            "player_1": {
+                "click": 2,
+                "x_position": 1510.279052734375
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 704,
+            "player_1": {
+                "click": 1,
+                "x_position": 1539.584716796875
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 705,
+            "player_1": {
+                "click": 2,
+                "x_position": 1540.980224609375
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 747,
+            "player_1": {
+                "click": 1,
+                "x_position": 1621.247802734375
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 758,
+            "player_1": {
+                "click": 2,
+                "x_position": 1656.449951171875
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 759,
+            "player_1": {
+                "click": 1,
+                "x_position": 1659.650146484375
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 760,
+            "player_1": {
+                "click": 2,
+                "x_position": 1662.850341796875
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 760,
+            "player_1": {
+                "click": 1,
+                "x_position": 1662.850341796875
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 766,
+            "player_1": {
+                "click": 2,
+                "x_position": 1682.051513671875
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 770,
+            "player_1": {
+                "click": 1,
+                "x_position": 1694.852294921875
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 801,
+            "player_1": {
+                "click": 2,
+                "x_position": 1794.058349609375
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 805,
+            "player_1": {
+                "click": 1,
+                "x_position": 1806.859130859375
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 818,
+            "player_1": {
+                "click": 2,
+                "x_position": 1848.461669921875
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 832,
+            "player_1": {
+                "click": 1,
+                "x_position": 1893.264404296875
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        },
+        {
+            "frame": 847,
+            "player_1": {
+                "click": 2,
+                "x_position": 1941.267333984375
+            },
+            "player_2": {
+                "click": 0,
+                "x_position": 0.0
+            }
+        }
+    ]
+}
